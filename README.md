@@ -1,2 +1,2 @@
 # Ethereum-Comparator
-A web based Ethereum graph comparator to evaluate investment decisions for future Ethereum trading.
+A web based price comparer of Australian Dollar Ethereum Exchanges to determine the best valued exchange for buying and selling ethereum.
