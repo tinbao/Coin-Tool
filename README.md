@@ -3,9 +3,15 @@ A web based price comparer of Australian Dollar Ethereum Exchanges to determine 
 
 #### Developers
 
+Kevin Li
+
 Tin Bao
 
-Kevin Li
+
+
+### Requirements
+
+Django 1.9
 
 
 
